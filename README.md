@@ -48,7 +48,11 @@ Data Visualization
 
 Recharts
 D3.js
+
+
+
 📈 Key Modules
+
 🎮 1. Adaptive Therapeutic Game Suite
 
 A collection of specialized rehabilitation games targeting different motor and cognitive functions.
@@ -70,6 +74,9 @@ Provides immediate visual feedback for:
 Posture correction
 Movement accuracy
 Effort consistency
+
+
+
 🩺 2. Physician Cloud (Doctor Dashboard)
 
 A centralized dashboard for clinicians to monitor and manage patient recovery.
@@ -105,10 +112,15 @@ Handles:
 Canvas scaling
 Calibration phases
 Cross-game state management
+
+
+
 🎥 Demo
 
 A working demo showcasing gameplay, tracking, and dashboards:
 👉 live link: https://smartrecovery.vercel.app/
+
+
 👉 video demo: https://drive.google.com/drive/folders/1fJwHVEedHLxebJEMKepyVCv56WKxFDhl?usp=sharing
 
 🔒 Repository Access
