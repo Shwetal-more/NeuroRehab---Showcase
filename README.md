@@ -143,6 +143,9 @@ AI-driven personalized recovery plans
 Integration with wearable/EEG devices
 Clinical trial validation
 Mobile application expansion
+
+
+
 ⚠️ Disclaimer
 
 This repository is intended for demonstration and evaluation purposes only.
